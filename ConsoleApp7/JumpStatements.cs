@@ -37,7 +37,7 @@ public class JumpStatements
                 goto case "A";
 
             default:
-                Console.WriteLine("No ");
+                Console.WriteLine("No modifications");
                 break;
         }
 
