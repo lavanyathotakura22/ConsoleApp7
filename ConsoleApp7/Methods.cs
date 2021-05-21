@@ -7,8 +7,6 @@ public class Person
     {
         Name = "unknown";
     }
-
-    // Constructor that takes one argument:
     public Person(string name)
     {
         Name = name;
